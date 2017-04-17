@@ -8,9 +8,6 @@ public class Triangle {
         for (int i = 1; i <= n; i++) {
             System.out.println(astriks);
             astriks = astriks + "*";
-
-
-
         }
 
     }
